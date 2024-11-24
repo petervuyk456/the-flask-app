@@ -3,7 +3,16 @@
 Install all of this...
 - `vscode` (or Visual Studio Code) - it's a code editor or an IDE, an integrated development environment (IT'S AWESOME)
 - `git` - version control, saving changes, working with multiple
-- `python` -
+  - To use this package, go to Github, create an account
+  - Add me on Github
+  - I will add you to repo
+  - Run this
+    ```
+    git clone <https code path>
+    cd the-flask-app
+    code .
+    ```
+- `python`:
   - `flask` - barely touched but we know it makes websites or something like that
 
 Other topics
