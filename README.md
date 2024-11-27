@@ -1,3 +1,17 @@
+## Startup Instructions
+
+```bash
+python -m venv .virtualenv
+source .virtualenv/Scripts/activate
+pip install -r requirements.txt
+flask --app main --debug run
+```
+
+## Teardown Instructions
+```Bash
+deactivate
+```
+
 ## Topics we touched on
 
 Install all of this...
